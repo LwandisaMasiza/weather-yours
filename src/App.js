@@ -16,7 +16,7 @@ function App() {
             target="_blank"
             rel="noopener noreferrer"
           >
-            View on GitHubssss
+            View on GitHub
           </a>
         </p>
       </footer>
